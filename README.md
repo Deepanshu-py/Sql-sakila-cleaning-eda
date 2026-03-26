@@ -35,6 +35,15 @@ This project performs end-to-end data analysis on a Movie Rental Database using 
 
 ---
 
+##  Important Note (Dataset Usage)
+To run this project on your system:
+
+1. Download the DVD Rental dataset (Sakila database)  
+2. Open your SQL environment (MySQL Workbench / any SQL tool)  
+3. Copy and paste the dataset SQL file into your editor  
+4. Execute the script to create all tables  
+5. After setup, run the queries from `sakila_project.sql`
+
 ##  Project Structure
 SQL_Movie_Rental_Analysis/
 
