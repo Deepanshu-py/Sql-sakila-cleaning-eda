@@ -1,11 +1,11 @@
-# 🎬 SQL Movie Rental Analysis System
+#  SQL Movie Rental Analysis System
 
-## 📌 Overview
+##  Overview
 This project performs end-to-end data analysis on a Movie Rental Database using SQL. It transforms raw transactional data into actionable business insights related to customer behavior, revenue trends, and rental patterns.
 
 ---
 
-## 🚀 Project Objective
+##  Project Objective
 - Analyze customer behavior
 - Identify top-performing movies & categories
 - Understand revenue distribution
@@ -14,7 +14,7 @@ This project performs end-to-end data analysis on a Movie Rental Database using 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - SQL (MySQL)
 - Data Analysis
 - Window Functions
@@ -22,7 +22,7 @@ This project performs end-to-end data analysis on a Movie Rental Database using 
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: DVD Rental Database (Kaggle)
 - Tables Used:
   - Customer
@@ -35,19 +35,21 @@ This project performs end-to-end data analysis on a Movie Rental Database using 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 SQL_Movie_Rental_Analysis/
 
 │── sakila_project.sql
 
 │── SQL_Project_Deepanshu.pdf
 
+│── Dataset
+
 │── README.md
 
 
 ---
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
 ### 🔹 1. Data Exploration
 - Checked multiple tables like customer, film, rental
@@ -82,7 +84,7 @@ SQL_Movie_Rental_Analysis/
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Revenue is concentrated in a few top-performing movies
 - Sports category generates highest revenue
 - Store 1 outperforms Store 2
@@ -93,7 +95,7 @@ SQL_Movie_Rental_Analysis/
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Focus on top-performing movies & categories
 - Target medium-value customers for upselling
 - Improve low-performing store operations
@@ -102,7 +104,7 @@ SQL_Movie_Rental_Analysis/
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Data limited to single year
 - No real-time data
 - No demographic information
@@ -110,7 +112,7 @@ SQL_Movie_Rental_Analysis/
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 - Build Power BI / Tableau dashboards
 - Apply Machine Learning models
 - Add multi-year data analysis
