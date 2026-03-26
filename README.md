@@ -121,16 +121,16 @@ SQL_Movie_Rental_Analysis/
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how SQL can be used to convert raw relational data into meaningful business insights, helping organizations make data-driven decisions and improve performance.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Deepanshu**  
 Data Analyst | SQL | Python | Data Visualization  
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 Give it a ⭐ on GitHub and feel free to fork it!
